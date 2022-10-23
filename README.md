@@ -7,4 +7,4 @@ In recent years, foodborne illness has become a concerning public health problem
 
 ### Data
 
-We use data from NCBI Pathogen Detection [LINK] (https://www.ncbi.nlm.nih.gov/pathogens/)  
+We used the isolation data from NCBI Pathogen Detection (https://www.ncbi.nlm.nih.gov/pathogens/). We pull out cases in six states in New England, as well as Califonia and Texa, from the Species *Salmonella enterica*, *E.coli and Shigella*, *Campylobacter jejuni* and *Listeria monocytogenes*. A set of cleaned data are stored at [Processed Data](https://github.com/weix21/PDA_project/tree/main/data/Processed%20data).
