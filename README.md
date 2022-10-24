@@ -9,3 +9,15 @@ In recent years, foodborne illness has become a concerning public health problem
 ### Data
 
 We used the isolation data from NCBI Pathogen Detection (https://www.ncbi.nlm.nih.gov/pathogens/). We pull out cases in six states in New England, as well as Califonia and Texa, from the Species *Salmonella enterica*, *E.coli and Shigella*, *Campylobacter jejuni* and *Listeria monocytogenes*. A set of cleaned data are stored at [Processed Data](https://github.com/weix21/PDA_project/tree/main/data/Processed%20data).
+
+### Figure
+
+Figures generated for data exploration are provided.
+
+![Number of cases reported in New England, CA and TX](https://github.com/weix21/PDA_project/blob/main/figure/figure_1.png)
+![Seaonal pattern of cases reported in New England, CA and TX](https://github.com/weix21/PDA_project/blob/main/figure/figure_2.pdf)
+![](https://github.com/weix21/PDA_project/blob/main/figure/figure_3_1.pdf)
+![Time series of cases reported in New England, CA and TX](https://github.com/weix21/PDA_project/blob/main/figure/figure_3_2.pdf)
+
+### Code
+
