@@ -16,10 +16,13 @@ Figures generated for data exploration are provided.
 
 ![](https://github.com/weix21/PDA_project/blob/main/figure/figure_1.png)
 *Number of cases reported in New England, CA and TX*
+
 ![](https://github.com/weix21/PDA_project/blob/main/figure/figure_2.png)
 *Seaonal pattern of cases reported in New England, CA and TX*
+
 ![](https://github.com/weix21/PDA_project/blob/main/figure/figure_3_1.png)
 *Time series of cases reported in New England, CA and TX by date*
+
 ![](https://github.com/weix21/PDA_project/blob/main/figure/figure_3_2.png)
 *Time series of cases reported in New England, CA and TX by quarter*
 
