@@ -12,8 +12,6 @@ We used the isolation data from NCBI Pathogen Detection (https://www.ncbi.nlm.ni
 
 ### Figure
 
-Figures generated for data exploration are provided.
-
 ![](https://github.com/weix21/PDA_project/blob/main/figure/figure_1.png)
 
 *Number of cases reported in New England, CA and TX*
@@ -32,3 +30,5 @@ Figures generated for data exploration are provided.
 
 ### Code
 
+Code for generating the figure [Figure Code](https://github.com/weix21/PDA_project/blob/main/code/Exploratory_analysis.R)
+Code for data preprocessing [Process Code](https://github.com/weix21/PDA_project/blob/main/code/Process_data.R)
