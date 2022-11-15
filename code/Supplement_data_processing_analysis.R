@@ -1,3 +1,7 @@
+## Xin and Chichun
+## Further EDA
+## Date: 11/14/2022
+
 # load package
 library(tidyverse)
 library(ggplot2)
@@ -236,3 +240,6 @@ length(grep("RM",strain))/nrow(df_2000)
 png(file = "/Users/chichuntan/OneDrive - Brown University/PHP 2550/Final Project/Sources_AMR.png",width = 1000,height = 800)
 cowplot::plot_grid(commonplot1,commonplot2,nrow = 2,labels = c("Isolation Sources","Detected AMR genotype"))
 dev.off()
+
+## Save processed data 
+save(df_2000,file="Processed_data_11_14.RData")
