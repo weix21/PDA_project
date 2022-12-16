@@ -42,6 +42,14 @@ GLM-based Time Series Regression
 *Forecast of 2020-2022 FI cases attributed to all four primary pathogens by SARIMA and
 GLM-based model*
 
+### Conclusion 
+
+Overall, food source could improve the prediction performance for future FI
+outbreaks. Instead of making prediction based on the periodicity of pathogen’s viability, food sources
+data enhanced the ability for a prediction model in capturing the trends of FI cases. Our analysis showed
+SARIMA and GLM had comparable performance on prediction, and both of them provided predictions
+more reliable in a short term than a long term.
+
 ### Code
 
 * Code for generating the figure [Figure Code](https://github.com/weix21/PDA_project/blob/main/code/Exploratory_analysis.R)
