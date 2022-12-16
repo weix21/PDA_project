@@ -9,12 +9,23 @@ the U.S. Food poisoning could happen when one was unaware, lead to severe sympto
 threatened the victims’ life. Therefore, a FI outbreak could burden local public health system and cause
 numerous economics loss. Therefore, developing a reliable forecasting tool for FI outbreaks was in high
 demand which could enhance the ability of public health department to make a quick response to a
-potential outbreak. Therefore 
+potential outbreak. We developed two time series models - Seasonal ARIMA and GLM-based time series regressions model - to capture the periodicity in FI pathogens' activities and implemented food sources information to improve FI outbreak predictions.
 
 
 ### Data
 
 We used the isolation data from NCBI Pathogen Detection (https://www.ncbi.nlm.nih.gov/pathogens/). We pull out cases in six states in New England, as well as Califonia and Texa, from the Species *Salmonella enterica*, *E.coli and Shigella*, *Campylobacter jejuni* and *Listeria monocytogenes*. A set of cleaned data are stored at [Processed Data](https://github.com/weix21/PDA_project/tree/main/data/Processed%20data).
+
+### Model 
+
+Seasonal ARIMA
+
+![](https://github.com/weix21/PDA_project/blob/main/figure/SARIMA.png)
+
+GLM-based Time Series Regression 
+
+![](https://github.com/weix21/PDA_project/blob/main/figure/glm_based.png)
+
 
 ### Figure
 
