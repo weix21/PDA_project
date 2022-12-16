@@ -14,7 +14,7 @@ potential outbreak. We developed two time series models - Seasonal ARIMA and GLM
 
 ### Data
 
-We used the isolation data from NCBI Pathogen Detection (https://www.ncbi.nlm.nih.gov/pathogens/). We pull out cases in six states in New England, as well as Califonia and Texa, from the Species *Salmonella enterica*, *E.coli and Shigella*, *Campylobacter jejuni* and *Listeria monocytogenes*. A set of cleaned data are stored at [Processed Data](https://github.com/weix21/PDA_project/tree/main/data/Processed%20data).
+We used the isolation data from NCBI Pathogen Detection (https://www.ncbi.nlm.nih.gov/pathogens/). We pull out cases in six states in New England, and the rest cases from other regions in U.S, from the Species *Salmonella enterica*, *E.coli and Shigella*, *Campylobacter jejuni* and *Listeria monocytogenes*. A set of cleaned data are stored at [Processed Data](https://github.com/weix21/PDA_project/tree/main/data/Processed%20data).
 
 ### Model 
 
@@ -52,6 +52,8 @@ more reliable in a short term than a long term.
 
 ### Code
 
-* Code for generating the figure [Figure Code](https://github.com/weix21/PDA_project/blob/main/code/Exploratory_analysis.R)
 * Code for data preprocessing [Process Code](https://github.com/weix21/PDA_project/blob/main/code/Process_data.R)
-* Code for modelling and forecasting [Model Code]()
+* Functions for modelling and forecasting [Model Code](https://github.com/weix21/PDA_project/blob/main/code/analysis.R)
+* Code for generating the figure [Figure Code](https://github.com/weix21/PDA_project/blob/main/code/Plot_Table_Generation.R)
+
+
