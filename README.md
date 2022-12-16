@@ -1,4 +1,4 @@
-## PHP 2550 Final Project: Foodbornes Illiness Outbreak in New England
+## PHP 2550 Final Project: United States regional primary foodborne illness pathogen activity prediction using time series models with food sources 
 Xin Wei & Chichun Tan, Fall 2022, Brown University School of Public Health
 
 ![](https://github.com/weix21/PDA_project/blob/main/figure/26911666558978_.pic_hd.jpg)
@@ -32,3 +32,4 @@ We used the isolation data from NCBI Pathogen Detection (https://www.ncbi.nlm.ni
 
 * Code for generating the figure [Figure Code](https://github.com/weix21/PDA_project/blob/main/code/Exploratory_analysis.R)
 * Code for data preprocessing [Process Code](https://github.com/weix21/PDA_project/blob/main/code/Process_data.R)
+* Code for modelling and forecasting [Model Code]()
