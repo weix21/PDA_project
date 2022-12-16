@@ -12,21 +12,18 @@ We used the isolation data from NCBI Pathogen Detection (https://www.ncbi.nlm.ni
 
 ### Figure
 
-![](https://github.com/weix21/PDA_project/blob/main/figure/figure_1.png)
+![](https://github.com/weix21/PDA_project/blob/main/figure/Figure1.png)
 
-*Number of cases reported in New England, CA and TX*
+*The detections of four primary FI pathogens from 2010 to 2022.*
 
-![](https://github.com/weix21/PDA_project/blob/main/figure/figure_2.png)
+![](https://github.com/weix21/PDA_project/blob/main/figure/Cases_food_corr.png)
 
-*Seaonal pattern of cases reported in New England, CA and TX*
+*Associations between FI cases and food sources from 2010 to 2022*
 
-![](https://github.com/weix21/PDA_project/blob/main/figure/figure_3_1.png)
+![](https://github.com/weix21/PDA_project/blob/main/figure/Figure2.png)
 
-*Time series of cases reported in New England, CA and TX by date*
-
-![](https://github.com/weix21/PDA_project/blob/main/figure/figure_3_2.png)
-
-*Time series of cases reported in New England, CA and TX by quarter*
+*Forecast of 2020-2022 FI cases attributed to all four primary pathogens by SARIMA and
+GLM-based model*
 
 ### Code
 
