@@ -9,7 +9,7 @@ the U.S. Food poisoning could happen when one was unaware, lead to severe sympto
 threatened the victims’ life. Therefore, a FI outbreak could burden local public health system and cause
 numerous economics loss. Therefore, developing a reliable forecasting tool for FI outbreaks was in high
 demand which could enhance the ability of public health department to make a quick response to a
-potential outbreak. We developed two time series models - Seasonal ARIMA and GLM-based time series regressions model - to capture the periodicity in FI pathogens' activities and implemented food sources information to improve FI outbreak predictions.
+potential outbreak. We developed two time series models: Seasonal ARIMA and GLM-based time series regressions model, to capture the periodicity in FI pathogens' activities and implemented food sources information to improve FI outbreak predictions.
 
 
 ### Data
